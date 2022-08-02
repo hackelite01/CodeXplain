@@ -1,6 +1,6 @@
 # CodeXplain 👨‍💻👩‍💻
 
-Understanding code can be hard - let CodeXplain help you with that.
+Understanding code can be hard - let CodeXplain help you with that line by line.
 
 ## Getting Started
 
