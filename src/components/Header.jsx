@@ -26,8 +26,8 @@ const Header = () => {
             cursor='pointer'
             width='max-content'
           >
-            CodeXplain 👻
-          </Text>
+            CodeXplain 
+          </Text>👻 
         </Container>
       </Stack>
     </HStack>
