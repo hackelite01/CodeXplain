@@ -24,9 +24,9 @@ The `pages/api` directory is mapped to `/api/*`. Files in this directory are tre
 
 Get API keys which mentioned below
 
-```OPENAI_API_KEY``` from OPENAI.COM
+```OPENAI_API_KEY``` from [OpenAi.com](https://openai.com/)
 
-```NEXT_PUBLIC_AMPLITUDE_KEY``` from AMPLITUDE.COM
+```NEXT_PUBLIC_AMPLITUDE_KEY``` from [Amplitude.com](https://amplitude.com/)
 
 ## Learn More
 
