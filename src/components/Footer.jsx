@@ -15,7 +15,7 @@ const Footer = () => {
         <Link isExternal href={'https://instagram.com/hackelite01'} onClick={trackSocialClick}>
           @hackelite01
         </Link>{' '}
-        (Mayank Rajput)with help of OpenAI.
+        (Mayank Rajput) with help of OpenAI.
       </Text>
     </Container>
   );
