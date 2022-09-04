@@ -12,10 +12,10 @@ const Footer = () => {
     <Container as='footer' role='contentinfo' w='full' color='gray.600' p={4} alignSelf='center' pt={6} maxW='4xl'>
       <Text textAlign='center'>
         built in Gujarat, India 🇮🇳 by{' '}
-        <Link isExternal href={'https://instagram.com/hackelite01'} onClick={trackSocialClick}>
+        <Link isExternal href={'https://github.com/hackelite01'} onClick={trackSocialClick}>
           @hackelite01
         </Link>{' '}
-        (Mayank Rajput) with help of OpenAI.
+       <Link isExternal href={'https://mayankrajput.ml'} onClick={trackSocialClick}>  (Mayank Rajput) </Link>{' '} with help of OpenAI.
       </Text>
     </Container>
   );
