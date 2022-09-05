@@ -4,7 +4,7 @@ Understanding code can be hard - let CodeXplain help you with that line by line.
 
 [![CodeFactor](https://www.codefactor.io/repository/github/hackelite01/CodeXplain/badge)](https://www.codefactor.io/repository/github/hackelite01/CodeXplain) 
 
-[![JavaScript](https://img.shields.io/badge/JavaScript-007ACC?style=for-the-badge&logo=javascript&logoColor=white)](https://www.reactjs.org/) [![ReactJS](https://img.shields.io/badge/React.js-43853D?style=for-the-badge&logo=next.js&logoColor=white)](https://reactjs.org/en/)
+[![JavaScript](https://img.shields.io/badge/JavaScript-007ACC?style=for-the-badge&logo=javascript&logoColor=white)](https://www.reactjs.org/) [![ReactJS](https://img.shields.io/badge/React.js-43853D?style=for-the-badge&logo=react.js&logoColor=white)](https://reactjs.org/en/)
 <a href="https://github.com/hackelite01"><img title="Made in INDIA" src="https://img.shields.io/badge/MADE%20IN-INDIA-SCRIPT?colorA=%23ff8100&colorB=%23017e40&colorC=%23ff0000&style=for-the-badge"></a>
 <a href="https://github.com/hackelite01"><img title="Maintainence" src="https://img.shields.io/badge/Maintained%3F-yes-green.svg"></a>
 </p>
